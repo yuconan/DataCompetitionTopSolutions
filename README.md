@@ -1,4 +1,4 @@
-# Top Solution
+# Top Solutions
 
 
 ## 一、Competition：
