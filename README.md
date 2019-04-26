@@ -6,7 +6,7 @@
 1. 2018科大讯飞AI营销算法大赛  
    Rank1：https://zhuanlan.zhihu.com/p/47807544  
    Rank2：https://github.com/infturing/kdxf  
-   Rank21：https://github.com/Michaelhuazhang/-AI21-
+
 
 2. 2018 IJCAI 阿里妈妈搜索广告转化预测  
    Rank1：https://github.com/plantsgo/ijcai-2018   
@@ -17,12 +17,6 @@
    Rank8: https://github.com/Gene20/IJCAI-18   
    Rank9（第一赛季）https://github.com/yuxiaowww/IJCAI-18-TIANCHI   
    Rank29: https://github.com/bettenW/IJCAI18_Tianchi_Rank29   
-   Rank41: https://github.com/cmlaughing/IJCAI-18   
-   Rank48: https://github.com/YunaQiu/IJCAI-18alimama   
-   Rank53: https://github.com/altmanWang/IJCAI-18-CVR   
-   Rank60: https://github.com/Chenyaorui/ijcai_2018   
-   Rank81: https://github.com/wzp123456/IJCAI_18   
-   Rank94: https://github.com/Yangtze121/-IJCAI-18- 
 
 3. 2018腾讯广告算法大赛  
    Rank3: https://github.com/DiligentPanda/Tencent_Ads_Algo_2018   
@@ -33,9 +27,7 @@
    rank10（初赛）: https://github.com/ShawnyXiao/2018-Tencent-Lookalike   
    Rank11: https://github.com/liupengsay/2018-Tencent-social-advertising-algorithm-contest   
    https://my.oschina.net/xtzggbmkk/blog/1865680   
-   Rank26: https://github.com/zsyandjyhouse/TencentAD_contest   
-   Rank33: https://github.com/John-Yao/Tencent_Social_Ads2018   
-   Rank69: https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto 
+
    
 4. 2017腾讯广告算法大赛  
    Rank14: https://github.com/freelzy/Tencent_Social_Ads   
@@ -47,11 +39,7 @@
    Rank4:  https://github.com/chantcalf/2018-Rank4-     
    Rank13(初赛 a榜rank2 b榜rank5): https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions  
                                   https://github.com/totoruo/KuaiShou2018-RANK13-RNN  
-   Rank15: https://github.com/sunwantong/Kuaishou-Active-User     
-   Rank20: https://github.com/bigzhao/Kuaishou_2018_rank20th     
-   Rank28(初赛 a榜rank1 b榜rank2)：https://github.com/YangKing0834131/2018-KUAISHOU-TSINGHUA-Top28-Solutions-     
-                                  https://github.com/FNo0/2018-KUAISHOU-Top28  
-   Rank35：https://github.com/chizhu/kuaishou2018  
+
    
 6. 2018JDATA 用户购买时间预测  
    Rank9：https://zhuanlan.zhihu.com/p/45141799 
@@ -88,7 +76,7 @@
    
 15. 2016 ccf-农产品价格预测  
    Rank2: https://github.com/xing89qs/CCF_Product   
-   Rank35: https://github.com/wqlin/ccf-price-prediction 
+
  
 16. 2016 ccf-客户用电异常  
    Rank4: https://github.com/AbnerYang/2016CCF-StateGrid 
@@ -128,8 +116,6 @@
 25. Kaggle 2017 Santa competition   
    Rank54: https://github.com/bigzhao/MPI-Hungarian-method
    
-26. Kaggle 2017 Porto Seguro’s Safe Driver Prediction   
-   Rank131: https://bigzhao.github.io/2017/12/18/kaggle-silver/
 
 27. 第三届阿里云安全算法挑战赛   
    Rank1: https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge
@@ -145,8 +131,7 @@
    
 30. 第二届 “智慧中国杯” 数据科学大赛，首发皇包车（HI GUIDES）精品旅行服务成单预测竞赛   
    Rank4: https://github.com/SunnyMarkLiu/Datacastle_Travel_Services_Predict   
-   Rank?: https://github.com/zlxy9892/DC_hbc
-   
+
 31. 2018 ATEC 蚂蚁金服NLP智能客服比赛   
    Rank16：https://github.com/zle1992/atec
    
@@ -188,16 +173,13 @@
    Rank4: https://github.com/hecongqing/2018-daguan-competition  
    Rank8：https://github.com/Rowchen/Text-classifier  
    Rank10: https://github.com/moneyDboat/data_grand
-   Rank11：https://github.com/TianyuZhuuu/DaGuan_TextClassification_Rank11  
-   Rank18: https://github.com/nlpjoe/daguan-classify-2018       
-   RankX: https://github.com/yanqiangmiffy/daguan
-   
+
 2. 智能客服问题相似度算法设计——第三届魔镜杯大赛  
    rank6 https://github.com/qrfaction/paipaidai  
    rank12 https://www.jianshu.com/p/827dd447daf9
           https://github.com/LittletreeZou/Question-Pairs-Matching  
    Rank16：https://github.com/guoday/PaiPaiDai2018_rank16   
-   Rank29: https://github.com/wangjiaxin24/daguan_NLP 
+
           
 3. 2018JD Dialog Challenge 任务导向型对话系统挑战赛  
    Rank2: https://github.com/Dikea/Dialog-System-with-Task-Retrieval-and-Seq2seq  
@@ -206,7 +188,7 @@
 4. 2018CIKM AnalytiCup  – 阿里小蜜机器人跨语言短文本匹配算法竞赛  
    Rank2: https://github.com/zake7749/Closer   
    Rank12：https://github.com/Leputa/CIKM-AnalytiCup-2018   
-   Rank18: https://github.com/VincentChen525/Tianchi/tree/master/CIKM%20AnalytiCup%202018
+
    
 5. 路透社新闻数据集“深度”探索性分析(词向量/情感分析)        
    https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook
@@ -215,6 +197,7 @@
    Rank1: http://www.dcjingsai.com/common/bbs/topicDetails.html?tid=2382   
    Rank2: https://github.com/bigzhao/Keyword_Extraction   
    Rank5: https://github.com/Dikea/ShenceCup.extract_keywords
+
 7.  知乎看山杯：  
    Rank1：https://github.com/chenyuntc/PyTorchText  
    Rank2：https://github.com/Magic-Bubble/Zhihu  
@@ -234,7 +217,7 @@
 11. 2018 kaggle quora insincere questions classification
    Rank1: https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568
    Rank13: https://mp.weixin.qq.com/s/DD-BOtPbGCXvxfFxL-qOgg
-   Rank153: https://github.com/jetou/kaggle-qiqc
+
 
 ### 三、CV：
 1. Kaggle-TGS
@@ -245,7 +228,6 @@
    Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
    Rank15:https://github.com/adam9500370/Kaggle-TGS
    Rank22: http://t.cn/EzYkR6i  
-   Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
    
 2. Kaggle Google地标检索   
    Rank1: http://t.cn/R1i7Xiy  
